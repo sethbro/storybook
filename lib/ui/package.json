@@ -46,7 +46,7 @@
     "memoizerific": "^1.11.3",
     "polished": "^3.3.1",
     "prop-types": "^15.7.2",
-    "qs": "^6.6.0",
+    "qs": "^6.9.7",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-draggable": "^4.0.3",
