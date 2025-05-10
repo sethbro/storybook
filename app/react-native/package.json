@@ -27,7 +27,7 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
+    "@emotion/core": "^11.0.0",
     "@emotion/native": "^10.0.14",
     "@storybook/addons": "5.3.0-alpha.12",
     "@storybook/channel-websocket": "5.3.0-alpha.12",
@@ -35,7 +35,7 @@
     "@storybook/client-api": "5.3.0-alpha.12",
     "@storybook/core-events": "5.3.0-alpha.12",
     "core-js": "^3.0.1",
-    "emotion-theming": "^10.0.19",
+    "emotion-theming": "^11.0.0",
     "react-native-swipe-gestures": "^1.0.4",
     "rn-host-detect": "^1.1.5"
   },
