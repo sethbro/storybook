@@ -27,12 +27,12 @@
     "prepare": "node ../../scripts/prepare.js"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.20",
-    "@emotion/styled": "^10.0.17",
+    "@emotion/core": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
     "@storybook/client-logger": "5.3.0-alpha.12",
     "core-js": "^3.0.1",
     "deep-object-diff": "^1.1.0",
-    "emotion-theming": "^10.0.19",
+    "emotion-theming": "^11.0.0",
     "global": "^4.3.2",
     "memoizerific": "^1.11.3",
     "polished": "^3.3.1",
